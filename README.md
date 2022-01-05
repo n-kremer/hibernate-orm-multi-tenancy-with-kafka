@@ -12,7 +12,7 @@ Application:
 > ./mvnw compile quarkus:dev
 
 ## Test if it's working
+Repeat the command a few times.
 > curl http://localhost:8080/fruits
-> curl http://localhost:8080/mycompany/fruits
 
 You should see different lists.
